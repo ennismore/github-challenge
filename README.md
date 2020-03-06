@@ -17,7 +17,7 @@ Clicking on the repository should take you to a detail view containing a descrip
 
 As a stretch goal: Users should also be able to 'bookmark' repositories, displayed when visiting `/bookmarks`. These should be stored locally in the browser and persist across refreshes.
 
-- (The API endpoint you'll need is here)[https://developer.github.com/v3/repos/#list-repositories-for-a-user]. An API key should not be required.
+- [The API endpoint you'll need is here](https://developer.github.com/v3/repos/#list-repositories-for-a-user). An API key should not be required.
 
 ## Tips
 
